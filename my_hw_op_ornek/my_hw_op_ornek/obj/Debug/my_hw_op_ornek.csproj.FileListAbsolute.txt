@@ -1,0 +1,11 @@
+C:\Users\brksv\OneDrive\Masaüstü\C# Diaries\my_hw_op_ornek\my_hw_op_ornek\bin\Debug\my_hw_op_ornek.exe.config
+C:\Users\brksv\OneDrive\Masaüstü\C# Diaries\my_hw_op_ornek\my_hw_op_ornek\bin\Debug\my_hw_op_ornek.exe
+C:\Users\brksv\OneDrive\Masaüstü\C# Diaries\my_hw_op_ornek\my_hw_op_ornek\bin\Debug\my_hw_op_ornek.pdb
+C:\Users\brksv\OneDrive\Masaüstü\C# Diaries\my_hw_op_ornek\my_hw_op_ornek\obj\Debug\my_hw_op_ornek.csproj.AssemblyReference.cache
+C:\Users\brksv\OneDrive\Masaüstü\C# Diaries\my_hw_op_ornek\my_hw_op_ornek\obj\Debug\my_hw_op_ornek.csproj.SuggestedBindingRedirects.cache
+C:\Users\brksv\OneDrive\Masaüstü\C# Diaries\my_hw_op_ornek\my_hw_op_ornek\obj\Debug\my_hw_op_ornek.Form1.resources
+C:\Users\brksv\OneDrive\Masaüstü\C# Diaries\my_hw_op_ornek\my_hw_op_ornek\obj\Debug\my_hw_op_ornek.Properties.Resources.resources
+C:\Users\brksv\OneDrive\Masaüstü\C# Diaries\my_hw_op_ornek\my_hw_op_ornek\obj\Debug\my_hw_op_ornek.csproj.GenerateResource.cache
+C:\Users\brksv\OneDrive\Masaüstü\C# Diaries\my_hw_op_ornek\my_hw_op_ornek\obj\Debug\my_hw_op_ornek.csproj.CoreCompileInputs.cache
+C:\Users\brksv\OneDrive\Masaüstü\C# Diaries\my_hw_op_ornek\my_hw_op_ornek\obj\Debug\my_hw_op_ornek.exe
+C:\Users\brksv\OneDrive\Masaüstü\C# Diaries\my_hw_op_ornek\my_hw_op_ornek\obj\Debug\my_hw_op_ornek.pdb
